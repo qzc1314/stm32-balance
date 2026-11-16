@@ -1,0 +1,21 @@
+# Keil 编译产物
+Objects/
+Listings/
+DebugConfig/
+*.uvguix.*
+*.uvoptx
+*.hex
+*.axf
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.dep
+
+# 日志
+*.log
+
+# 系统
+Thumbs.db
+.DS_Store
